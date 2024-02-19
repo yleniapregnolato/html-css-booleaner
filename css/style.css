@@ -50,8 +50,8 @@ ul {
 
 .prima-foto {
     margin-top: 0px;
-   margin-bottom: 0px;
-   font-size: 10px;
+    margin-bottom: 0px;
+    font-size: 10px;
 }
 
 .seconda-foto {
@@ -83,4 +83,34 @@ ul {
     background-color: yellow;
     color: black;
 }
+/* css footer */
+.footer {
+    font-weight: bold;
+    color: lightsteelblue;
+    margin-bottom: 5px;
+}
 
+.footer-foto {
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+.monitor {
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+   
+}
+
+.testo-foto {
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    top: 5px;
+    
+    
+}
+
+.graph {
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+}
