@@ -1,38 +1,82 @@
 /* css header */
-header{
+header {
     background-color: lightblue;
     background-image: url(../img/pattern.png);
     
 }
 /* /header */
 /* css titoli */
-h1{
+h1 {
     font-size: 50px;
-    margin-bottom: 0%;
+    margin-bottom: 0;
 }
 
-h2{
+h2 {
     color: #9c9c9c;
+    margin: 0;
 }
 
-h3{
+h3 {
     color: #9c9c9c;
+    margin: 0px;
+    margin-bottom: 30px;
 }
 /* /css titoli */
-.the-booleaner{
+
+table { 
+    border-collapse: collapse;
+}
+
+th {
+    font-size: bold;
+    font-size: 12px;
+    color: white;
+    background-color: lightskyblue;
+    text-align: left;
+
+}
+
+.azzurro {
+    background-color: powderblue;
+}
+
+.w-25 {
+    width: 25%;
+}
+
+.prima-foto {
+    margin-top: 0px;
+   margin-bottom: 0px;
+   font-size: 10px;
+}
+
+.seconda-foto {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 10px;
+}
+
+.the-booleaner {
     position: absolute;
     left: 0px;
     bottom: 0px;
 }
-.logo{
+
+.logo {
     height: 200px;
     width: 200px;
     position: relative;
     
 }
 
-.booleaner{
+.booleaner {
     color: lightblue;
 
+}
+
+.importante {
+    font-weight: bold;
+    background-color: yellow;
+    color: black;
 }
 
