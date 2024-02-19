@@ -1,9 +1,11 @@
+/* css header */
 header{
     background-color: lightblue;
     background-image: url(../img/pattern.png);
     
 }
-
+/* /header */
+/* css titoli */
 h1{
     font-size: 50px;
     margin-bottom: 0%;
@@ -16,8 +18,8 @@ h2{
 h3{
     color: #9c9c9c;
 }
-
-img{
+/* /css titoli */
+.the-booleaner{
     position: absolute;
     left: 0px;
     bottom: 0px;
