@@ -36,6 +36,10 @@ th {
 
 }
 
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
 .azzurro {
     background-color: powderblue;
 }
